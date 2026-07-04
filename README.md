@@ -266,7 +266,7 @@ Possible enhancements include:
 
 # 👨‍💻 Author
 
-**Adnan Iqbal**
+**Addan Iqbal**
 
 Cybersecurity Analyst Intern — DecodeLabs
 
