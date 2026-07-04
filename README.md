@@ -278,15 +278,13 @@ Computer System Engineering Student
 - Penetration Testing
 - Red Teaming
 - Python
-- Artificial Intelligence
+- Computer Networking
 
 **GitHub**
-
-https://github.com/adnaniqbal
+https://github.com/AddanKhattak
 
 **LinkedIn**
-
-Add your LinkedIn profile here.
+https://www.linkedin.com/in/addan-iqbal-4186ab247
 ---
 # 📄 License
 
