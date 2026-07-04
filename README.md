@@ -149,10 +149,10 @@ Verification    : PASSED
 
 The screenshot below shows the successful execution of the program in Visual Studio Code.
 
-> **Note:** Save your screenshot as `assets/output.png`.
+> > **Note:** Screenshot of the program execution in Visual Studio Code.
 
 <p align="center">
-  <img src="assets/output.png" alt="Program Output" width="900">
+ <img src="output.png" alt="Program Output" width="900">
 </p>
 
 ---
